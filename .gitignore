@@ -1,0 +1,4 @@
+/target
+/dist
+/*.pdf
+.DS_Store
