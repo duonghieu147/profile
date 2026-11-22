@@ -1,0 +1,7 @@
+/target
+/dist
+/*.pdf
+.DS_Store
+# ảnh cá nhân: giữ trên máy, không đưa lên repo
+/avatar.*
+/assets/avatar.*
